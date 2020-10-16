@@ -1,0 +1,133 @@
+#wrapper {
+    border: 2pt solid black;
+    border-radius: 5px;
+    margin: 50px;
+    padding: 50px;
+    width: 1000px;
+    background-color: skyblue;
+    }
+    
+    #register, #login{
+    display: inline-block;
+    }
+    #login{
+    vertical-align: top;
+    margin-left: 50px;
+    }
+    .text-danger{
+    color: red;
+    }
+    label{
+    display: block;
+    }
+    input{
+    margin: 20px 0;
+    width: 400px;
+    border-radius: 5px;
+    }
+    button{
+    display: block;
+    border-radius: 5px;
+    background-color: rgb(205, 207, 221);
+    font-weight: bold;
+    padding: 5px;
+    }
+
+    ul{
+        display: inline-block;
+    }
+    li{
+        display: inline-block;
+    }
+    #tableWrapper{
+    display: inline-block;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    }
+    table{
+    border-collapse: collapse;
+    }
+    th{
+    background-color: grey;
+    padding: 5px;
+    }
+    td{
+    background-color: lightgrey;
+    padding: 5px;
+    }
+    a{
+    text-decoration: none;
+    }
+    .green{
+    color: green;
+    }
+
+    #top-right {
+        
+        position: absolute;
+        top:50px;
+        right:130px;
+        
+        
+    }
+
+    #header{
+        display: inline-flex;
+        justify-content: space-between;
+        
+
+    }
+
+    /* h1 {
+        margin: 0 800px 40px 0;
+    }
+     */
+    button {
+    border-radius: 5px;
+    padding: 5px;
+    }
+    
+    textarea {
+    border-radius: 5px;
+    display: block;
+    }
+    
+    .message_button {
+    margin: 20px 0 20px 450px;
+    }
+    
+    .bold {
+    font-weight: bold;
+    }
+    
+    .indent{
+    margin-left: 20px;
+    }
+
+    #post{
+        margin-left: 100px;
+    }
+
+    .bold2 {
+        font-weight: bold;
+        margin-left: 50px;
+        }
+        
+    .indent2{
+    margin-left: 60px;
+    }
+
+    #formdojo {
+        margin-right: 100px;
+    }
+    #ninjas_dojos {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 50px;
+        border-bottom: 2px solid black;
+    
+    }
+    #result {
+        text-align: center;
+    }
